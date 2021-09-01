@@ -47,7 +47,7 @@ test {
 	useJUnitPlatform()
 }
 
-def webappDir ="$projectDir/src/main/front"
+def webappDir ="$projectDir/src/main/sample_react"
 
 def querydslDir = "$buildDir/generated/querydsl"
 querydsl {
